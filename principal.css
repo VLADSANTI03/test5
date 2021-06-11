@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+}
+.pres{
+    background-image: url(fondo.jpg);
+    padding: 10px;
+    justify-content: center;
+    text-align: center;
+    color: #ffffff;
+    align-items: center;
+    display: flow-root;
+    background-repeat: no-repeat;
+    width: 1600px;
+    height: 700px;
+}
+.pres p{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}
+.pres h1{
+    margin-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:180px;
+}
+.pres button{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: #000000;
+    border: #ffffff 5px solid;
+    border-radius: 30px;
+    font-size: 30px;
+    width: 250px; 
+    height: 80px;
+    text-decoration: none;
+}
+.pres a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+

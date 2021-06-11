@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+}
+.diseñopor{
+    color: #ffffff;
+    text-align: center;
+    background: #90ad4c;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 20px;
+}
+
+
+.proyectos img{
+    height: 500px;
+    margin-right: 130px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.proyectostexto{
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.proyectostexto h2{
+    font-size: 40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif
+}
+.proyectostexto p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    color: #ffffff;
+}
+
+
+
+
+.encabezado{
+    align-items:center;
+    color: #ffffff;
+    height: 200px;
+    justify-content:space-around;
+     background-color:#90ad4c;
+    display:flex;
+}
+.proyectos{
+    background-color: #bc4b51;
+    display:flex;
+    margin:0px;
+    padding-top: 20px;
+    justify-content: center; 
+    padding-bottom: 20px;
+    align-items:center;
+}
+.proyectos h1{ 
+    margin: 10px;
+    color: #ffffff;
+    text-align: center;
+    font-size:50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.encabezado a{
+    color: #ffffff;
+    text-decoration: none;
+}
+.encabezado button{
+    background: #5b8e7d;
+    border:none;
+    width: 280px;
+    margin-left: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 80px;
+    font-size: 50px;
+    border: #000000 3px solid; 
+    border-radius: 25px;
+}
+.encabezado img{
+    margin-right: 100px;
+    width: 400px;
+}
